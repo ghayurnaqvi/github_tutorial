@@ -1,1 +1,4 @@
 I will be adding notes from a coursera course for github
+
+Course name: Introduction to Git and GitHub
+https://www.coursera.org/learn/introduction-git-github
